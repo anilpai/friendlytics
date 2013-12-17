@@ -1,7 +1,8 @@
 friendlytics
 ============
 
-Source Code of 7 web services hosted on Google App Engine.
+Web services for generating facebook analytics
+
 
 Welcome to Friendlytics!!!!
 
